@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-12T01:58:45 IST" name="Default suite" finished-at="2025-01-12T01:59:29 IST" duration-ms="44510">
+    <groups>
+    </groups>
+    <test started-at="2025-01-12T01:58:45 IST" name="Default test" finished-at="2025-01-12T01:59:29 IST" duration-ms="44510">
+      <class name="wikipediaProject.Task3Test">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:wikipediaProject.Task3Test@41d477ed]" started-at="2025-01-12T01:58:45 IST" name="configureAppium" finished-at="2025-01-12T01:59:09 IST" duration-ms="24795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="test1()[pri:0, instance:wikipediaProject.Task3Test@41d477ed]" started-at="2025-01-12T01:59:09 IST" name="test1" finished-at="2025-01-12T01:59:16 IST" duration-ms="6122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:wikipediaProject.Task3Test@41d477ed]" started-at="2025-01-12T01:59:16 IST" name="test2" finished-at="2025-01-12T01:59:27 IST" duration-ms="10979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:wikipediaProject.Task3Test@41d477ed]" started-at="2025-01-12T01:59:27 IST" name="tearDown" finished-at="2025-01-12T01:59:29 IST" duration-ms="2547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- wikipediaProject.Task3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
