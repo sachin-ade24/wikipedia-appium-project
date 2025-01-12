@@ -1,11 +1,13 @@
 Note: Please navigate to the 'src' folder to review the code. Thanks.
 
-Project: Wikipedia Android Application Testing
+Project Info:
 
-Tools: Appium, Selenium(for support)
+1. Project: Wikipedia Android Application Testing
 
-Programming Language: Java
+2. Tools: Appium, Selenium(for support)
 
-Tesing Framework: TestNG
+3. Programming Language: Java
 
-Other platforms: Android Studio and Appium Inspector
+4. Tesing Framework: TestNG
+
+5. Other platforms: Android Studio and Appium Inspector
