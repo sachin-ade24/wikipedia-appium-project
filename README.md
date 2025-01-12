@@ -6,7 +6,7 @@ Project Info:
 
 2. Tools: Appium, Selenium(for support)
 
-3. Programming Language: Java
+3. Programming Language (Major part of the project): Java
 
 4. Tesing Framework: TestNG
 
