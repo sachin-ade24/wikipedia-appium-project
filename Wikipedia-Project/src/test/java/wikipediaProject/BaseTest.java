@@ -25,7 +25,7 @@ public class BaseTest {
 		service = new AppiumServiceBuilder().withAppiumJS(
 				new File("C://Users//sbaburao//AppData//Roaming//nvm//v20.12.0//node_modules//appium//lib//main.js"))
 				.withIPAddress("127.0.0.1").usingPort(4723).build();
-		//service.start();
+		service.start();
 		UiAutomator2Options options = new UiAutomator2Options();
 		options.setDeviceName("Sachin Pixel 3a API 35");
 		options.setApp(
@@ -42,8 +42,8 @@ public class BaseTest {
 	
 	@AfterClass
 	public void tearDown() {
-		driver.quit();
-	    //service.stop();
+	    driver.quit();
+	    service.stop();
 	}
 
 }
